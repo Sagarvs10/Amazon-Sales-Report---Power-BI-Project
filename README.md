@@ -1,5 +1,7 @@
 # Amazon Sales Report - Power BI Project
 
+### Dashboard Link: https://app.powerbi.com/groups/me/reports/b483626b-9381-4620-978e-7c80a53a62fe/85ee4908979bdecc4807?experience=power-bi
+
 ## 📌 Project Overview
 
 This Power BI project provides an interactive Amazon Sales Report dashboard that helps in analyzing key sales metrics, trends, and performance indicators. The report visualizes data insights to assist in making data-driven business decisions.
