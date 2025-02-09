@@ -40,11 +40,14 @@ This Power BI project provides an interactive Amazon Sales Report dashboard that
 
 ## 📸 Snapshots
 
-Dashboard Overview
+#### Dashboard Overview
+![Image](https://github.com/user-attachments/assets/00ce1935-5ad8-4eb0-92c3-b89bd4e4e27f)
 
-Sales Performance Analysis
+#### Products Page
+![Image](https://github.com/user-attachments/assets/5c70aae8-bbd6-497e-a051-4cd4e3bd7551)
 
-Top-Selling Products Visualization
+#### Product view Page
+![Image](https://github.com/user-attachments/assets/3ba337bd-eb15-4cad-a3d6-ef16d9e35300)
 
 ## 📌 How to Use
 
@@ -66,6 +69,6 @@ Top-Selling Products Visualization
 
 ## 📧 Contact
 
-For any queries or collaboration, feel free to reach out:📩 Email: your-email@example.com🔗 LinkedIn: Your LinkedIn Profile
+For any queries or collaboration, feel free to reach out:📩 Email: sagar.developer1004@gmail.com🔗
 
 ⭐ If you found this project useful, give it a star! ⭐
